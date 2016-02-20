@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Interactive Story</string>
+    <string name="enter_your_name_to_begin">Enter your name to begin</string>
+    <string name="name">Name</string>
 </resources>
