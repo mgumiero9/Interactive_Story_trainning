@@ -148,6 +148,10 @@
         "source": "/home/mgumiero9/InteractiveStory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "/home/mgumiero9/InteractiveStory/app/build/intermediates/res/merged/debug/layout/activity_story.xml",
+        "source": "/home/mgumiero9/InteractiveStory/app/src/main/res/layout/activity_story.xml"
+    },
+    {
         "merged": "/home/mgumiero9/InteractiveStory/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/home/mgumiero9/InteractiveStory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
     }
