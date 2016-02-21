@@ -1,9 +1,11 @@
-package com.androiders.interactivestory;
+package com.androiders.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.androiders.interactivestory.R;
 
 public class StoryActivity extends AppCompatActivity {
 
