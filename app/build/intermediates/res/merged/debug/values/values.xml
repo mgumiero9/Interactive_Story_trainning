@@ -214,6 +214,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Interactive Story</string>
     <string name="enter_your_name_to_begin">Enter your name to begin</string>
+    <string name="key_name">Name</string>
     <string name="name">Name</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
