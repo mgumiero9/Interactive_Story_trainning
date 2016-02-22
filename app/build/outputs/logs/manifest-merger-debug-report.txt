@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:3:11-52
 		INJECTED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:2:1
 		INJECTED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml
 		INJECTED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:5:5-23:19
+ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:5:5-25:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /home/mgumiero9/InteractiveStory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /home/mgumiero9/InteractiveStory/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 	android:label
@@ -27,14 +27,14 @@ MERGED from [com.android.support:support-v4:23.1.1] /home/mgumiero9/InteractiveS
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:7:9-45
 	android:theme
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:10:9-40
-activity#com.androiders.interactivestory.MainActivity
+activity#com.androiders.interactivestory.ui.MainActivity
 ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:11:9-20:20
 	android:screenOrientation
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:14:13-49
 	android:label
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:13:13-45
 	android:name
-		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:12:13-41
+		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:12:13-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -45,10 +45,12 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:18:17-76
 	android:name
 		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:18:27-74
-activity#com.androiders.interactivestory.StoryActivity
-ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:21:9-22:20
+activity#com.androiders.interactivestory.ui.StoryActivity
+ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:21:9-24:20
+	android:screenOrientation
+		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:23:13-49
 	android:name
-		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:21:19-48
+		ADDED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml:22:13-45
 uses-sdk
 INJECTED from /home/mgumiero9/InteractiveStory/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] /home/mgumiero9/InteractiveStory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
